@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+
+}
+.nav-item{
+    padding-left: 10px;
+}
+.nav-link{
+    color: hsl(0, 0%, 41%) !important;
+}
+#content{
+    margin-top: 50px;
+}
+
+h1{
+    color: hsl(0, 0%, 8%);
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+}
+p{
+    color: hsl(0, 0%, 41%);
+    font-size: 18px;
+    font-family: 'Epilogue', sans-serif;
+    margin-top: 30px;
+    margin-left: 15px;
+ 
+    
+}
+
+
+.btnLink{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+   background-color: hsl(0, 0%, 8%);
+   color: white;
+   font-family: 'Epilogue', sans-serif;
+   font-size: 11px;
+   margin-top: 30px;
+   margin-left: 10px;
+
+}
+.footer{
+   padding: 10px;
+   margin-bottom: 40px;
+    
+
+}
+
